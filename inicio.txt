@@ -1,4 +1,4 @@
-lista de participantes en el proyecto
+lista de participantes en el proyecto de desarrollo
 ======
 
 Bienvenid@s!! En este archivo escriban sus nombres y apellidos y su cuenta de Github escriban sus datos completos.
